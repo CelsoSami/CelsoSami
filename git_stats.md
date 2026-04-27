@@ -99,14 +99,6 @@
 
 ---
 
-## 🔥 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CelsoSami&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 💼 Experience Snapshot
 
 - **Data Advisor @ Sicredi** → Scalable pipelines, ML, and platform optimization  
