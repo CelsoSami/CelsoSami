@@ -105,11 +105,6 @@
 - **BI Analyst @ Cassems** → Enterprise analytics and full BI environment ownership  
 - **Indicators Analyst @ Healthcare** → Operational BI, LGPD, and high-impact analytics  
 
----
-
-## 🎯 Mindset
-
-> Data only matters when it **drives decisions and creates impact**.
 
 ---
 
